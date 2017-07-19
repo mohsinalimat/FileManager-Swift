@@ -9,6 +9,14 @@
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
+## Photos
+
+If you don't add the 'Assets' folder in your project Button/Cell images WON'T appear!!!
+
+ ![alt text](https://github.com/Mahmoud333/FileManager-Swift/blob/master/Screen%20Shot%202017-07-14%20at%205.11.57%20PM.png)
+ ![alt text](https://github.com/Mahmoud333/FileManager-Swift/blob/master/Screen%20Shot%202017-07-14%20at%205.12.17%20PM.png)
+ ![alt text](https://github.com/Mahmoud333/FileManager-Swift/blob/master/Screen%20Shot%202017-07-14%20at%205.43.44%20AM.png)
+
 ## Why is it usefull
 - Made entirely by code without using storyboard which makes it easier for anyone to use, implement and support all screen sizes
 
@@ -50,14 +58,6 @@ it, simply add the following line to your Podfile:
 ```ruby
 pod "FileManager-Swift"
 ```
-
-## Photos
-
-If you won't add the 'Assets' folder in your project Button/Cell images WON'T appear!!!
-
- ![alt text](https://github.com/Mahmoud333/FileManager-Swift/blob/master/Screen%20Shot%202017-07-14%20at%205.11.57%20PM.png)
- ![alt text](https://github.com/Mahmoud333/FileManager-Swift/blob/master/Screen%20Shot%202017-07-14%20at%205.12.17%20PM.png)
- ![alt text](https://github.com/Mahmoud333/FileManager-Swift/blob/master/Screen%20Shot%202017-07-14%20at%205.43.44%20AM.png)
 
 ## Author
 
