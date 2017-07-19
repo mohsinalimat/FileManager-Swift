@@ -51,6 +51,13 @@ it, simply add the following line to your Podfile:
 pod "FileManager-Swift"
 ```
 
+## Photos
+
+If you won't add the 'Assets' folder in your project Button/Cell images WON'T appear!!!
+
+ ![alt text](https://github.com/Mahmoud333/FileManager-Swift/blob/master/Screen%20Shot%202017-07-14%20at%205.11.57%20PM.png)
+ ![alt text](https://github.com/Mahmoud333/FileManager-Swift/blob/master/Screen%20Shot%202017-07-14%20at%205.12.17%20PM.png)
+ ![alt text](https://github.com/Mahmoud333/FileManager-Swift/blob/master/Screen%20Shot%202017-07-14%20at%205.43.44%20AM.png)
 
 ## Author
 
